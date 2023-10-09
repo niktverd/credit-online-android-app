@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".leader">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_menu"
+        android:layout_marginBottom="50dp">
+
+        <WebView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/web_view">
+
+
+        </WebView>
+    </LinearLayout>
+
+    <LinearLayout
+        android:backgroundTint="@color/black"
+        android:id="@+id/bottom_menu"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:scrollbarAlwaysDrawHorizontalTrack="true"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <HorizontalScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent">
+
+            <LinearLayout
+                android:id="@+id/scroll_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textAllCaps="false">
+
+<!--                <Button-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginHorizontal="5sp"-->
+<!--                    android:onClick="getICredit"-->
+<!--                    android:text="@string/icreditkz_title"-->
+<!--                    android:backgroundTint="@color/main_green" />-->
+
+<!--                <Button-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginHorizontal="5sp"-->
+<!--                    android:backgroundTint="@color/main_green"-->
+<!--                    android:onClick="getEvaZaym"-->
+<!--                    android:text="@string/evazaymkz_title" />-->
+
+
+<!--                <Button-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginHorizontal="5sp"-->
+<!--                    android:backgroundTint="@color/main_green"-->
+<!--                    android:onClick="getCredy"-->
+<!--                    android:text="@string/credykz_title" />-->
+
+
+<!--                <Button-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginHorizontal="5sp"-->
+<!--                    android:backgroundTint="@color/main_green"-->
+<!--                    android:onClick="getUsoseda"-->
+<!--                    android:text="@string/usosedakz_title" />-->
+
+
+<!--                <Button-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginHorizontal="5sp"-->
+<!--                    android:backgroundTint="@color/main_green"-->
+<!--                    android:onClick="getUnocredit"-->
+<!--                    android:text="@string/unocreditkz_title" />-->
+
+
+
+<!--                <Button-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginHorizontal="5sp"-->
+<!--                    android:backgroundTint="@color/main_green"-->
+<!--                    android:onClick="getCrezu"-->
+<!--                    android:text="@string/crezu_title" />-->
+<!--                -->
+<!--                <Button-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_marginHorizontal="5sp"-->
+<!--                    android:backgroundTint="@color/main_green"-->
+<!--                    android:onClick="getDengiclick"-->
+<!--                    android:text="@string/dengiclickkz_title" />-->
+
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

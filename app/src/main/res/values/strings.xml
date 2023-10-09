@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">CreditOnline</string>
+    <string name="app_subtitle">Быстрые займы на карту</string>
+    <string name="app_continue">Продолжить</string>
+    <!--done-->
+    <string name="icreditkz_title">i-Credit</string>
+    <string name="icreditkz_link">https://hullaballoo-prod.herokuapp.com/api/short/ctkfxt</string>
+
+    <!--done-->
+    <string name="evazaymkz_title">Eva Zaym</string>
+    <string name="evazaymkz_link">https://hullaballoo-prod.herokuapp.com/api/short/3xxql6</string>
+
+
+    <!--done-->
+    <string name="usosedakz_title">У соседа</string>
+    <string name="usosedakz_link">https://hullaballoo-prod.herokuapp.com/api/short/lxcvvi</string>
+
+    <!--done-->
+<!--    <string name="unocreditkz_title">Uno Credit</string>-->
+<!--    <string name="unocreditkz_link">https://tds.pdl-profit.com/h/14gr63e9cd1caec7c</string>-->
+
+    <!--done-->
+    <string name="crezu_title">Crezu</string>
+    <string name="crezu_link">https://hullaballoo-prod.herokuapp.com/api/short/2buko3</string>
+
+    <!--done-->
+    <string name="dengiclickkz_title">Деньги Клик</string>
+    <string name="dengiclickkz_link">https://hullaballoo-prod.herokuapp.com/api/short/2rel3e</string>
+
+
+    <string name="vivuskz_title">Vivus</string>
+    <string name="vivuskz_link">https://hullaballoo-prod.herokuapp.com/api/short/wv5agi</string>
+
+
+    <string name="acreditkz_title">ACredit</string>
+    <string name="acreditkz_link">https://hullaballoo-prod.herokuapp.com/api/short/5dqy2b</string>
+
+
+    <string name="finansokz_title">Finanso</string>
+    <string name="finansokz_link">https://hullaballoo-prod.herokuapp.com/api/short/voz87g</string>
+
+
+    <string name="havakz_title">Hava</string>
+    <string name="havakz_link">https://hullaballoo-prod.herokuapp.com/api/short/9xa8fc</string>
+
+
+    <string name="timezaimkz_title">TimeZaim</string>
+    <string name="timezaimkz_link">https://hullaballoo-prod.herokuapp.com/api/short/u6kqna</string>
+
+
+    <string name="salemkz_title">Salem</string>
+    <string name="salemkz_link">https://hullaballoo-prod.herokuapp.com/api/short/jr2nq8</string>
+
+
+    <string name="tengedakz_title">Tenge Da</string>
+    <string name="tengedakz_link">https://hullaballoo-prod.herokuapp.com/api/short/k6pre7</string>
+
+
+    <string name="credit365kz_title">Credit365</string>
+    <string name="credit365kz_link">https://hullaballoo-prod.herokuapp.com/api/short/vdau0f</string>
+
+
+    <string name="zaimerkz_title">Займер</string>
+    <string name="zaimerkz_link">https://hullaballoo-prod.herokuapp.com/api/short/nlj2kr</string>
+
+
+    <!--done-->
+    <string name="credykz_title">Credy</string>
+    <string name="credykz_link">https://hullaballoo-prod.herokuapp.com/api/short/ithcf6</string>
+
+
+    <string name="binixokz_title">Binixo</string>
+    <string name="binixokz_link">https://hullaballoo-prod.herokuapp.com/api/short/ls2o4c</string>
+
+
+    <string name="creditplus_title">CreditPlus</string>
+    <string name="creditplus_link">https://hullaballoo-prod.herokuapp.com/api/short/jhuidb</string>
+
+
+    <string name="turbomoney_title">Turbomoney</string>
+    <string name="turbomoney_link">https://hullaballoo-prod.herokuapp.com/api/short/k5prbo</string>
+
+
+    <string name="kokekz_title">Koke</string>
+    <string name="kokekz_link">https://hullaballoo-prod.herokuapp.com/api/short/ntg7rw</string>
+
+
+    <string name="chestnoeslovokz_title">Честное слово</string>
+    <string name="chestnoeslovokz_link">https://hullaballoo-prod.herokuapp.com/api/short/yqv8z9</string>
+
+
+<!--    <string name="tengokz_title">Честное слово</string>-->
+<!--    <string name="tengokz_link">https://tds.pdl-profit.com/h/13o363e9d011ac6b4</string>-->
+
+
+    <string name="qanatkz_title">Qanat</string>
+    <string name="qanatkz_link">https://hullaballoo-prod.herokuapp.com/api/short/a2mnuw</string>
+
+    <string name="facebook_app_id">1963283137382951</string>
+</resources>
